@@ -1,6 +1,6 @@
-# Pack Recuperacao de dados
+# Data Recovery Pack
 
-Pack com programas profissionais para auxiliar na recuperação de dados apagados/excluidos, partições perdidas ou formatadas. Todos os programas incluídos estão na versão paga (aqueles que tiverem necessidade de pagar pagar para seu uso) e também em  sua versão portátil, não sendo necessário sua instalação.
+Pack with professional programs to assist in recovering deleted/deleted data, lost or formatted partitions. All programs included are in the paid version
 ##
 # Project links:
 ##### <a href="https://t.me/gruposcriptaio">Support group</a>
